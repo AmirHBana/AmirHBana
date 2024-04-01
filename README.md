@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <p align="center" dir="auto">
-  <div w3-include-html="https://github.com/AmirHBana/AmirHBana/blob/main/AmirHossienBanayi%20Khalilabad'sGitHubStats.html"></div>>
+  <a href="https://github.com/AmirHBana/AmirHBana/blob/main/AmirHossienBanayi%20Khalilabad'sGitHubStats.html">Google Maps</a><br>
 </p>
 
 
