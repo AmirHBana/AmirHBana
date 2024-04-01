@@ -1,4 +1,4 @@
-- 👋 Hi, I’m AmirHossienBanayi
+- 👋 Hi, My name is Amir Hossien Banayi Khalilabad
 - <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRDj-Sl9AY15eDJtG-OhL5yBmGBU4nIkZ8tA&usqp=CAU"
   alt="say hi to world">
 - 👀 I’m interested in AI
