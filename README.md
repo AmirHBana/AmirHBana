@@ -20,20 +20,9 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim, anaconda,django,wordpress,windows,vscode, opencv, mysql" />
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim, anaconda,django,wordpress,windows,vscode, opencv, mysql, redis, react, r, pytorch, py, pycharm, powershell, postman, postgres, php, visualstudio, v, unity, ubuntu, twitter, swift, stackoverflow, sqlite, ps, mongodb, matlab," />
   </a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=visualstudio, v, unity, ubuntu, twitter, swift, stackoverflow, sqlite, ps, mongodb, matlab" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=redis, react, r, pytorch, py, pycharm, powershell, postman, postgres, php" />
-  </a>
-</p>
 
 <hr>
