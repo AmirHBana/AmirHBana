@@ -20,9 +20,11 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim, anaconda,django,wordpress,windows,vscode, opencv, mysql, redis, react, r, pytorch, py, pycharm, powershell, postman, postgres, php, visualstudio, v, unity, ubuntu, twitter, swift, stackoverflow, sqlite, ps, mongodb, matlab," />
+    <img src="https://skillicons.dev/icons?i=" />
   </a>
 </p>
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,git,kubernetes,docker,c,vim,anaconda,django,wordpress,windows,vscode,opencv,mysql,redis,react,r,pytorch,py,pycharm,powershell,postman,postgres,php,visualstudio,v,unity,ubuntu,twitter,swift,stackoverflow,sqlite,ps,mongodb,matlab,)](https://skillicons.dev)
 
 
 <hr>
