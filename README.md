@@ -25,6 +25,12 @@ You can click the Preview link to take a look at your changes.
 
 </p>
 
+<p align="center" dir="auto">
+
+<img src="https://github.com/AmirHBana/AmirHBana/blob/main/pic2.png" alt="AmirHossienbanayi" style="max-width: 100%; max-height: 70%;">
+
+</p>
+
 
 
 
