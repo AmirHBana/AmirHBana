@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <p align="center" dir="auto">
-  <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/AmirHBana/AmirHBana/blob/main/AmirHossienBanayi%20Khalilabad'sGitHubStats.html"><img alt="AmirHossienBanayi's Github Stats" src="https://github.com/AmirHBana/AmirHBana/blob/main/AmirHossienBanayi%20Khalilabad'sGitHubStats.html" height="192px" data-canonical-src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=behradbhrmi&amp;show_icons=true&amp;include_all_commits=true&amp;count_private=true&amp;theme=react&amp;hide_border=true&amp;bg_color=1F222E&amp;title_color=F85D7F&amp;icon_color=F8D866" style="max-width: 100%;"></a>
+  <div w3-include-html="https://github.com/AmirHBana/AmirHBana/blob/main/AmirHossienBanayi%20Khalilabad'sGitHubStats.html"></div> style="max-width: 100%;"></a>
 </p>
 
 
