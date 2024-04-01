@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes.
 
 <br><br>
 
-<h3><b>Professional Working With</b></h3>
+<h3><b>Professionally Working With</b></h3>
 
 <hr>
 
