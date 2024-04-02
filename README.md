@@ -6,9 +6,9 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRDj-Sl9AY15eDJtG-OhL5yBmGBU4nIkZ8tA&usqp=CAU"
   alt="say hi to world">
 
-<h4>A Fullstack Web and Mobile app developer 👨🏻‍💻 from IRAN. I'm a Results-oriented full stack developer 
+<h3>A Fullstack Web and Mobile app developer 👨🏻‍💻 from IRAN. I'm a Results-oriented full stack developer 
   with 2+ years experience developing, testing, and maintaining enterprise applications. Designed and developed over 10 advanced applications 
-  for various use cases and functional requirements for clients ranging from individuals and small businesses all the way to large enterprise corporations.</h4>
+  for various use cases and functional requirements for clients ranging from individuals and small businesses all the way to large enterprise corporations.</h3>
 
 
   <br>
