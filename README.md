@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
 
 <br><br>
 
-<h3><b>Experience Working With</b></h3>
+<h3><b> 🖥️ Experience Working With</b></h3>
 <hr>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,docker,c,vim,anaconda,django,wordpress,windows,vscode,opencv,mysql,redis,react,r,pytorch,py,pycharm,powershell,postman,postgres,php,visualstudio,v,unity,ubuntu,twitter,swift,stackoverflow,sqlite,ps,mongodb,matlab,linux,linkedin,kotlin,kali,jquery,java,instagram,ai,gmail,gitlab,github,flutter,flask,figma,debian,dart,cpp,cs,bootstrap,bash)](https://skillicons.dev)
@@ -61,7 +61,7 @@ You can click the Preview link to take a look at your changes.
 
 <br><br>
 
-<h3><b>Professionally Working With</b></h3>
+<h3><b> 💻 Professionally Working With</b></h3>
 
 <hr>
 
