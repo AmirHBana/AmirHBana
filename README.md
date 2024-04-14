@@ -65,7 +65,7 @@ You can click the Preview link to take a look at your changes.
 
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,docker,django,windows,vscode,mysql,redis,react,py,pycharm,powershell,postman,postgres,visualstudio,ubuntu,stackoverflow,sqlite,mongodb,linux,linkedin,jquery,gmail,github,flutter,debian,dart,bootstrap,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,git,docker,django,windows,vscode,mysql,redis,react,py,pycharm,postman,postgres,visualstudio,stackoverflow,sqlite,linux,jquery,gmail,github,flutter,debian,dart,bootstrap,bash)](https://skillicons.dev)
 
 
 <hr>
