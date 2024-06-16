@@ -34,14 +34,14 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center" dir="auto">
 
-<img src="https://github.com/AmirHBana/AmirHBana/blob/main/pic1.png" alt="AmirHossien Banayi" style="max-width: 100%; max-height: 70%;">
+<img src="https://github.com/AmirHBana/AmirHBana/blob/main/p2.png" alt="AmirHossien Banayi" style="max-width: 100%; max-height: 70%;">
 
 
 </p>
 
 <p align="center" dir="auto">
 
-<img src="https://github.com/AmirHBana/AmirHBana/blob/main/pic2.png" alt="AmirHossienbanayi" style="max-width: 100%; max-height: 70%;">
+<img src="https://github.com/AmirHBana/AmirHBana/blob/main/p1.png" alt="AmirHossienbanayi" style="max-width: 100%; max-height: 70%;">
 
 </p>
 
